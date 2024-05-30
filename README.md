@@ -1,6 +1,7 @@
 ## Hi there 👋 It's me Rusaid Ahamed
 
-B.Eng.Tech. (Jaffna University) & freelancer
+<img height="50" width="50" src="https://www.jfn.ac.lk/wp-content/uploads/2022/02/Logo-Color-300x300.png" />
+B.Eng.Tech. & freelancer
 
 Here are some ideas to get you started:
 
