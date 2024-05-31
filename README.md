@@ -1,9 +1,11 @@
 ## Hi there 👋 It's me Rusaid Ahamed
 
 <img height="100" width="100" src="https://www.jfn.ac.lk/wp-content/uploads/2022/02/Logo-Color-300x300.png" />
-B.Eng.Tech. 
+B.Eng.Tech.
+
 freelancer
-</br>
+
+
 Here are some ideas to get you started:
 
 - 🔭 Here's my [portfolio](https://ruzait.github.io/)
