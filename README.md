@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on ML/AI
 - 🤔 Now I’m looking for my University 
-- 💬 Ask me about Tech
-<!-- - 📫 How to reach me:-->
+- 💬 Ask me about Tech<!-- - 📫 How to reach me:-->
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: Funny
 
