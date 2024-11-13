@@ -1,4 +1,4 @@
-## Hi there 👋 It's me Rusaid Ahamed
+# Hi there 👋 It's me Rusaid Ahamed
 
 <img height="100" width="100" src="https://www.jfn.ac.lk/wp-content/uploads/2022/02/Logo-Color-300x300.png" />
 B.Eng.Tech.
