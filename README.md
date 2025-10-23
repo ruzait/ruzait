@@ -22,8 +22,7 @@
 ---
 
 ### 💻 I Code In  
-<img height="50" src="https://img.icons8.com/color/48/python.png" alt="Python" />  
-<img height="40" src="https://img.icons8.com/color/48/html-5.png" alt="HTML" />  
+<img height="50" src="https://img.icons8.com/color/48/python.png" alt="Python" />  <img height="40" src="https://img.icons8.com/color/48/html-5.png" alt="HTML" />  
 <img height="40" src="https://img.icons8.com/color/48/css3.png" alt="CSS" />  
 <img height="40" src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" />  
 <img height="40" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" />  
