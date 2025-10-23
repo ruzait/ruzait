@@ -22,35 +22,17 @@
 ---
 
 ### 💻 I Code In  
-<img height="50" src="https://img.icons8.com/color/48/python.png" alt="Python" />  <img height="40" src="https://img.icons8.com/color/48/html-5.png" alt="HTML" />  
-<img height="40" src="https://img.icons8.com/color/48/css3.png" alt="CSS" />  
-<img height="40" src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" />  
-<img height="40" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" />  
-<img height="40" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" />  
+<img height="50" src="https://img.icons8.com/color/48/python.png" alt="Python" />  <img height="40" src="https://img.icons8.com/color/48/html-5.png" alt="HTML" />  <img height="40" src="https://img.icons8.com/color/48/css3.png" alt="CSS" />  <img height="40" src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap" />  <img height="40" src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" />  <img height="40" src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL" />  
 
 ---
 
 ### 🧠 Currently Learning  
-<img height="40" src="https://img.icons8.com/color/48/flask.png" alt="Flask" />  
-<img height="40" src="https://img.icons8.com/color/48/machine-learning.png" alt="Machine Learning" />  
-<img height="40" src="https://img.icons8.com/color/48/c-programming.png" alt="C" />  
-<img height="40" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" />  
-<img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" />  
-<img height="40" src="https://img.icons8.com/color/48/react-native.png" alt="React" />  
-<img height="40" src="https://img.icons8.com/color/48/google-firebase-console.png" alt="Firebase" />  
-<img height="40" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />  
-<img height="40" src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" />  
+<img height="40" src="https://img.icons8.com/color/48/flask.png" alt="Flask" />  <img height="40" src="https://img.icons8.com/color/48/machine-learning.png" alt="Machine Learning" />  <img height="40" src="https://img.icons8.com/color/48/c-programming.png" alt="C" />  <img height="40" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" />  <img height="40" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" />  <img height="40" src="https://img.icons8.com/color/48/react-native.png" alt="React" />  <img height="40" src="https://img.icons8.com/color/48/google-firebase-console.png" alt="Firebase" />  <img height="40" src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB" />  <img height="40" src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" />  
 
 ---
 
 ### 🛠️ IDEs & Tools I Use  
-<img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" />  
-<img height="40" src="https://img.icons8.com/color/48/pycharm.png" alt="PyCharm" />  
-<img height="40" src="https://img.icons8.com/color/50/git.png" alt="Git" />  
-<img height="40" src="https://img.icons8.com/dusk/64/anaconda.png" alt="Anaconda" />  
-<img height="40" src="https://img.icons8.com/doodle/48/adobe-photoshop.png" alt="Photoshop" />  
-<img height="40" src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" />  
-<img height="40" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />  
+<img height="40" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code" />  <img height="40" src="https://img.icons8.com/color/48/pycharm.png" alt="PyCharm" />  <img height="40" src="https://img.icons8.com/color/50/git.png" alt="Git" />  <img height="40" src="https://img.icons8.com/dusk/64/anaconda.png" alt="Anaconda" />  <img height="40" src="https://img.icons8.com/doodle/48/adobe-photoshop.png" alt="Photoshop" />  <img height="40" src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" />  <img height="40" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />  
 
 ---
 
