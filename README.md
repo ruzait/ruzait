@@ -2,7 +2,7 @@
 
 <img height="100" width="100" src="https://www.jfn.ac.lk/wp-content/uploads/2022/02/Logo-Color-300x300.png" alt="University of Jaffna Logo" />
 
-🎓 **Bachelor of Technology (Honours) – 2nd Year**  
+🎓 **Bachelor of Technology (Honours)(R) – 2nd Year**  
 🏛️ *Faculty of Technology, University of Jaffna*  
 💼 *Freelancer | Tech Enthusiast | Developer*
 
