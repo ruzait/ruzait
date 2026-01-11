@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Rusaid Ahamed  
 
-<img height="100" width="100" src="https://www.jfn.ac.lk/wp-content/uploads/2022/02/Logo-Color-300x300.png" alt="University of Jaffna Logo" />
+<img height="100" width="100" src="https://www.jfn.ac.lk/wp-content/uploads/2025/10/UOJ-Logo-Color-scaled.png" alt="University of Jaffna Logo" />
 
-🎓 **Bachelor of Technology (Honours)(R) – 2nd Year**  
+🎓 **Bachelor of Technology in Electro Technology (Honours)(R) – 2nd Year**  
 🏛️ *Faculty of Technology, University of Jaffna*  
 💼 *Freelancer | Tech Enthusiast | Developer*
 
